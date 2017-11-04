@@ -1,0 +1,7 @@
+hand1={"back":"7c 7s 7h Th Td","mid":"Ks Qh Js Ts 9c","front":"8d 8s 8h"}
+&hand2={"back":"Ac Kc Jc 8c 6c","mid":"Ad Qd 7d 6d 4d","front":"6s 4s 2s"}
+&hand3={"back":"3h 3s 3c 3d 6h","mid":"As Ah 2h 2c 4c","front":"Qs Ts 5s"}
+
+"back":"7c 7s 7h Th Td","mid":"Ks Qh Js Ts 9c","front":"8d 8s 8h"
+"back":"Ac Kc Jc 8c 6c","mid":"Ad Qd 7d 6d 4d","front":"6s 4s 2s"
+"back":"3h 3s 3c 3d 6h","mid":"As Ah 2h 2c 4c","front":"Qs Ts 5s"
