@@ -28,7 +28,7 @@ include_once 'PHP/userdbfuncs.php';
     </body>
     
     <?php
-//    $test = getUsernameFromEmail("leepaterson1996@hotmail.com");
+//    $test = getUsernameFromEmail("x@hotmail.com");
 //    echo $test["username"];
 //    var_dump($test);
     ?>
